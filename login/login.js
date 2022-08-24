@@ -47,7 +47,7 @@
  })
 
  if(email.value == userValid.email && senha.value == userValid.senha){
-        window.location.href = 'http://127.0.0.1:5500/dashboard-crm/home.html'
+        window.location.href = './../dashboard-crm/home.html'
  } else {
         emailLabel.setAttribute('style', 'color: red')
         email.setAttribute('style', 'border-color: red')
