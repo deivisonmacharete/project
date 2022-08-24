@@ -1,0 +1,2 @@
+let listUser = '{"nomeCadastrado":"nome.value","emailCadastrado": "email.value", "telefoneCadastrado": "telefone.value", "senhaCadastrado": "senha.value" }'
+
